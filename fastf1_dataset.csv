@@ -1,0 +1,221 @@
+RoundNumber,EventName,DriverNumber,Abbreviation,FullName,TeamName,GridPosition,FinishPosition,Points,Status,QualiPosition,RollingAvgFinish,RollingPointsPerRace
+1,Australian Grand Prix,23,ALB,Alexander Albon,Williams,15.0,12.0,0.0,Lapped,15.0,,
+2,Chinese Grand Prix,23,ALB,Alexander Albon,Williams,22.0,22.0,0.0,Did not start,18.0,12.0,0.0
+3,Japanese Grand Prix,23,ALB,Alexander Albon,Williams,17.0,20.0,0.0,Lapped,17.0,17.0,0.0
+4,Miami Grand Prix,23,ALB,Alexander Albon,Williams,15.0,10.0,1.0,Finished,15.0,18.0,0.0
+5,Canadian Grand Prix,23,ALB,Alexander Albon,Williams,18.0,21.0,0.0,Retired,18.0,16.0,0.25
+6,Monaco Grand Prix,23,ALB,Alexander Albon,Williams,11.0,8.0,4.0,Finished,11.0,18.25,0.25
+7,Barcelona Grand Prix,23,ALB,Alexander Albon,Williams,18.0,18.0,0.0,Lapped,18.0,14.75,1.25
+8,Austrian Grand Prix,23,ALB,Alexander Albon,Williams,18.0,17.0,0.0,Lapped,18.0,14.25,1.25
+9,British Grand Prix,23,ALB,Alexander Albon,Williams,16.0,21.0,0.0,Retired,16.0,16.0,1.0
+10,Belgian Grand Prix,23,ALB,Alexander Albon,Williams,15.0,15.0,0.0,Finished,17.0,16.0,1.0
+1,Australian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,17.0,18.0,0.0,Retired,17.0,,
+2,Chinese Grand Prix,14,ALO,Fernando Alonso,Aston Martin,18.0,17.0,0.0,Retired,19.0,18.0,0.0
+3,Japanese Grand Prix,14,ALO,Fernando Alonso,Aston Martin,21.0,18.0,0.0,Lapped,21.0,17.5,0.0
+4,Miami Grand Prix,14,ALO,Fernando Alonso,Aston Martin,17.0,15.0,0.0,Lapped,17.0,17.666666666666668,0.0
+5,Canadian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,19.0,20.0,0.0,Retired,19.0,17.0,0.0
+6,Monaco Grand Prix,14,ALO,Fernando Alonso,Aston Martin,21.0,10.0,1.0,Finished,21.0,17.5,0.0
+7,Barcelona Grand Prix,14,ALO,Fernando Alonso,Aston Martin,22.0,19.0,0.0,Retired,22.0,15.75,0.25
+8,Austrian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,21.0,18.0,0.0,Lapped,21.0,16.0,0.25
+9,British Grand Prix,14,ALO,Fernando Alonso,Aston Martin,21.0,18.0,0.0,Lapped,22.0,16.75,0.25
+10,Belgian Grand Prix,14,ALO,Fernando Alonso,Aston Martin,22.0,19.0,0.0,Lapped,21.0,16.25,0.25
+1,Australian Grand Prix,12,ANT,Kimi Antonelli,Mercedes,2.0,2.0,18.0,Finished,2.0,,
+2,Chinese Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,1.0,2.0,18.0
+3,Japanese Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,1.0,1.5,21.5
+4,Miami Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,1.0,1.3333333333333333,22.666666666666668
+5,Canadian Grand Prix,12,ANT,Kimi Antonelli,Mercedes,2.0,1.0,25.0,Finished,2.0,1.25,23.25
+6,Monaco Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,1.0,1.0,25.0
+7,Barcelona Grand Prix,12,ANT,Kimi Antonelli,Mercedes,3.0,16.0,0.0,Retired,3.0,1.0,25.0
+8,Austrian Grand Prix,12,ANT,Kimi Antonelli,Mercedes,4.0,3.0,15.0,Finished,4.0,4.75,18.75
+9,British Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,15.0,0.0,Finished,1.0,5.25,16.25
+10,Belgian Grand Prix,12,ANT,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,1.0,8.75,10.0
+1,Australian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,12.0,7.0,6.0,Lapped,12.0,,
+2,Chinese Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,10.0,5.0,10.0,Finished,10.0,7.0,6.0
+3,Japanese Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,18.0,22.0,0.0,Retired,18.0,6.0,8.0
+4,Miami Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,12.0,11.0,0.0,Lapped,12.0,11.333333333333334,5.333333333333333
+5,Canadian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,16.0,10.0,1.0,Lapped,16.0,11.25,4.0
+6,Monaco Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,19.0,20.0,0.0,Retired,19.0,12.0,2.75
+7,Barcelona Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,15.0,17.0,0.0,Retired,15.0,15.75,0.25
+8,Austrian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,13.0,14.0,0.0,Lapped,13.0,14.5,0.25
+9,British Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,13.0,12.0,0.0,Finished,14.0,15.25,0.25
+10,Belgian Grand Prix,87,BEA,Oliver Bearman,Haas F1 Team,14.0,14.0,0.0,Finished,16.0,15.75,0.0
+1,Australian Grand Prix,5,BOR,Gabriel Bortoleto,Audi,10.0,9.0,2.0,Lapped,10.0,,
+2,Chinese Grand Prix,5,BOR,Gabriel Bortoleto,Audi,16.0,21.0,0.0,Did not start,16.0,9.0,2.0
+3,Japanese Grand Prix,5,BOR,Gabriel Bortoleto,Audi,9.0,13.0,0.0,Finished,9.0,15.0,1.0
+4,Miami Grand Prix,5,BOR,Gabriel Bortoleto,Audi,21.0,12.0,0.0,Lapped,21.0,14.333333333333334,0.6666666666666666
+5,Canadian Grand Prix,5,BOR,Gabriel Bortoleto,Audi,13.0,13.0,0.0,Lapped,13.0,13.75,0.5
+6,Monaco Grand Prix,5,BOR,Gabriel Bortoleto,Audi,16.0,11.0,0.0,Finished,16.0,14.75,0.0
+7,Barcelona Grand Prix,5,BOR,Gabriel Bortoleto,Audi,12.0,11.0,0.0,Lapped,12.0,12.25,0.0
+8,Austrian Grand Prix,5,BOR,Gabriel Bortoleto,Audi,12.0,11.0,0.0,Lapped,12.0,11.75,0.0
+9,British Grand Prix,5,BOR,Gabriel Bortoleto,Audi,11.0,8.0,4.0,Finished,11.0,11.5,0.0
+10,Belgian Grand Prix,5,BOR,Gabriel Bortoleto,Audi,8.0,8.0,4.0,Finished,9.0,10.25,1.0
+1,Australian Grand Prix,77,BOT,Valtteri Bottas,Cadillac,19.0,19.0,0.0,Retired,19.0,,
+2,Chinese Grand Prix,77,BOT,Valtteri Bottas,Cadillac,19.0,13.0,0.0,Lapped,20.0,19.0,0.0
+3,Japanese Grand Prix,77,BOT,Valtteri Bottas,Cadillac,20.0,19.0,0.0,Lapped,20.0,16.0,0.0
+4,Miami Grand Prix,77,BOT,Valtteri Bottas,Cadillac,19.0,18.0,0.0,Lapped,19.0,17.0,0.0
+5,Canadian Grand Prix,77,BOT,Valtteri Bottas,Cadillac,21.0,16.0,0.0,Lapped,22.0,17.25,0.0
+6,Monaco Grand Prix,77,BOT,Valtteri Bottas,Cadillac,20.0,21.0,0.0,Retired,20.0,16.5,0.0
+7,Barcelona Grand Prix,77,BOT,Valtteri Bottas,Cadillac,20.0,21.0,0.0,Retired,20.0,18.5,0.0
+8,Austrian Grand Prix,77,BOT,Valtteri Bottas,Cadillac,20.0,22.0,0.0,Retired,20.0,19.0,0.0
+9,British Grand Prix,77,BOT,Valtteri Bottas,Cadillac,18.0,16.0,0.0,Finished,18.0,20.0,0.0
+10,Belgian Grand Prix,77,BOT,Valtteri Bottas,Cadillac,17.0,18.0,0.0,Lapped,19.0,20.0,0.0
+1,Australian Grand Prix,43,COL,Franco Colapinto,Alpine,16.0,14.0,0.0,Lapped,16.0,,
+2,Chinese Grand Prix,43,COL,Franco Colapinto,Alpine,12.0,10.0,1.0,Lapped,12.0,14.0,0.0
+3,Japanese Grand Prix,43,COL,Franco Colapinto,Alpine,15.0,16.0,0.0,Finished,15.0,12.0,0.5
+4,Miami Grand Prix,43,COL,Franco Colapinto,Alpine,8.0,7.0,6.0,Finished,8.0,13.333333333333334,0.3333333333333333
+5,Canadian Grand Prix,43,COL,Franco Colapinto,Alpine,10.0,6.0,8.0,Lapped,10.0,11.75,1.75
+6,Monaco Grand Prix,43,COL,Franco Colapinto,Alpine,14.0,14.0,0.0,Finished,14.0,9.75,3.75
+7,Barcelona Grand Prix,43,COL,Franco Colapinto,Alpine,13.0,10.0,1.0,Lapped,13.0,10.75,3.5
+8,Austrian Grand Prix,43,COL,Franco Colapinto,Alpine,16.0,15.0,0.0,Lapped,16.0,9.25,3.75
+9,British Grand Prix,43,COL,Franco Colapinto,Alpine,19.0,9.0,2.0,Finished,19.0,11.25,2.25
+10,Belgian Grand Prix,43,COL,Franco Colapinto,Alpine,11.0,10.0,1.0,Finished,13.0,12.0,0.75
+1,Australian Grand Prix,10,GAS,Pierre Gasly,Alpine,14.0,10.0,1.0,Lapped,14.0,,
+2,Chinese Grand Prix,10,GAS,Pierre Gasly,Alpine,7.0,6.0,8.0,Finished,7.0,10.0,1.0
+3,Japanese Grand Prix,10,GAS,Pierre Gasly,Alpine,7.0,7.0,6.0,Finished,7.0,8.0,4.5
+4,Miami Grand Prix,10,GAS,Pierre Gasly,Alpine,9.0,21.0,0.0,Retired,9.0,7.666666666666667,5.0
+5,Canadian Grand Prix,10,GAS,Pierre Gasly,Alpine,14.0,8.0,4.0,Lapped,14.0,11.0,3.75
+6,Monaco Grand Prix,10,GAS,Pierre Gasly,Alpine,9.0,3.0,15.0,Finished,9.0,10.5,4.5
+7,Barcelona Grand Prix,10,GAS,Pierre Gasly,Alpine,14.0,7.0,6.0,Lapped,14.0,9.75,6.25
+8,Austrian Grand Prix,10,GAS,Pierre Gasly,Alpine,11.0,13.0,0.0,Lapped,11.0,9.75,6.25
+9,British Grand Prix,10,GAS,Pierre Gasly,Alpine,15.0,10.0,1.0,Finished,12.0,7.75,6.25
+10,Belgian Grand Prix,10,GAS,Pierre Gasly,Alpine,10.0,11.0,0.0,Finished,12.0,8.25,5.5
+1,Australian Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,3.0,20.0,0.0,Retired,3.0,,
+2,Chinese Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,9.0,8.0,4.0,Finished,9.0,20.0,0.0
+3,Japanese Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,8.0,12.0,0.0,Finished,8.0,14.0,2.0
+4,Miami Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,22.0,22.0,0.0,Retired,22.0,13.333333333333334,1.3333333333333333
+5,Canadian Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,7.0,5.0,10.0,Lapped,7.0,15.5,1.0
+6,Monaco Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,5.0,4.0,12.0,Finished,5.0,11.75,3.5
+7,Barcelona Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,6.0,6.0,8.0,Lapped,6.0,10.75,5.5
+8,Austrian Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,8.0,6.0,8.0,Finished,8.0,9.25,7.5
+9,British Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,5.0,5.0,10.0,Finished,5.0,5.25,9.5
+10,Belgian Grand Prix,6,HAD,Isack Hadjar,Red Bull Racing,21.0,6.0,8.0,Finished,10.0,5.25,9.5
+1,Australian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,7.0,4.0,12.0,Finished,7.0,,
+2,Chinese Grand Prix,44,HAM,Lewis Hamilton,Ferrari,3.0,3.0,15.0,Finished,3.0,4.0,12.0
+3,Japanese Grand Prix,44,HAM,Lewis Hamilton,Ferrari,6.0,6.0,8.0,Finished,6.0,3.5,13.5
+4,Miami Grand Prix,44,HAM,Lewis Hamilton,Ferrari,6.0,6.0,8.0,Finished,6.0,4.333333333333333,11.666666666666666
+5,Canadian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,5.0,2.0,18.0,Finished,5.0,4.75,10.75
+6,Monaco Grand Prix,44,HAM,Lewis Hamilton,Ferrari,3.0,2.0,18.0,Finished,3.0,4.25,12.25
+7,Barcelona Grand Prix,44,HAM,Lewis Hamilton,Ferrari,2.0,1.0,25.0,Finished,2.0,4.0,13.0
+8,Austrian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,3.0,5.0,10.0,Finished,3.0,2.75,17.25
+9,British Grand Prix,44,HAM,Lewis Hamilton,Ferrari,3.0,3.0,15.0,Finished,3.0,2.5,17.75
+10,Belgian Grand Prix,44,HAM,Lewis Hamilton,Ferrari,5.0,4.0,12.0,Finished,6.0,2.75,17.0
+1,Australian Grand Prix,27,HUL,Nico Hulkenberg,Audi,11.0,22.0,0.0,Did not start,11.0,,
+2,Chinese Grand Prix,27,HUL,Nico Hulkenberg,Audi,11.0,11.0,0.0,Lapped,11.0,22.0,0.0
+3,Japanese Grand Prix,27,HUL,Nico Hulkenberg,Audi,13.0,11.0,0.0,Finished,13.0,16.5,0.0
+4,Miami Grand Prix,27,HUL,Nico Hulkenberg,Audi,10.0,19.0,0.0,Retired,10.0,14.666666666666666,0.0
+5,Canadian Grand Prix,27,HUL,Nico Hulkenberg,Audi,11.0,12.0,0.0,Lapped,11.0,15.75,0.0
+6,Monaco Grand Prix,27,HUL,Nico Hulkenberg,Audi,13.0,13.0,0.0,Finished,13.0,13.25,0.0
+7,Barcelona Grand Prix,27,HUL,Nico Hulkenberg,Audi,9.0,20.0,0.0,Retired,9.0,13.75,0.0
+8,Austrian Grand Prix,27,HUL,Nico Hulkenberg,Audi,14.0,12.0,0.0,Lapped,14.0,16.0,0.0
+9,British Grand Prix,27,HUL,Nico Hulkenberg,Audi,12.0,22.0,0.0,Retired,13.0,14.25,0.0
+10,Belgian Grand Prix,27,HUL,Nico Hulkenberg,Audi,12.0,13.0,0.0,Finished,14.0,16.75,0.0
+1,Australian Grand Prix,30,LAW,Liam Lawson,Racing Bulls,8.0,13.0,0.0,Lapped,8.0,,
+2,Chinese Grand Prix,30,LAW,Liam Lawson,Racing Bulls,14.0,7.0,6.0,Finished,14.0,13.0,0.0
+3,Japanese Grand Prix,30,LAW,Liam Lawson,Racing Bulls,14.0,9.0,2.0,Finished,14.0,10.0,3.0
+4,Miami Grand Prix,30,LAW,Liam Lawson,Racing Bulls,11.0,20.0,0.0,Retired,11.0,9.666666666666666,2.6666666666666665
+5,Canadian Grand Prix,30,LAW,Liam Lawson,Racing Bulls,12.0,7.0,6.0,Lapped,12.0,12.25,2.0
+6,Monaco Grand Prix,30,LAW,Liam Lawson,Racing Bulls,10.0,6.0,8.0,Finished,10.0,10.75,3.5
+7,Barcelona Grand Prix,30,LAW,Liam Lawson,Racing Bulls,8.0,8.0,4.0,Lapped,8.0,10.5,4.0
+8,Austrian Grand Prix,30,LAW,Liam Lawson,Racing Bulls,9.0,9.0,2.0,Lapped,9.0,10.25,4.5
+9,British Grand Prix,30,LAW,Liam Lawson,Racing Bulls,10.0,6.0,8.0,Finished,10.0,7.5,5.0
+10,Belgian Grand Prix,30,LAW,Liam Lawson,Racing Bulls,9.0,12.0,0.0,Finished,11.0,7.25,5.5
+1,Australian Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,4.0,,
+2,Chinese Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,4.0,3.0,15.0
+3,Japanese Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,4.0,3.5,13.5
+4,Miami Grand Prix,16,LEC,Charles Leclerc,Ferrari,3.0,8.0,4.0,Finished,3.0,3.3333333333333335,14.0
+5,Canadian Grand Prix,16,LEC,Charles Leclerc,Ferrari,8.0,4.0,12.0,Finished,8.0,4.5,11.5
+6,Monaco Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,17.0,0.0,Retired,4.0,4.75,10.75
+7,Barcelona Grand Prix,16,LEC,Charles Leclerc,Ferrari,10.0,15.0,0.0,Retired,10.0,8.0,7.75
+8,Austrian Grand Prix,16,LEC,Charles Leclerc,Ferrari,2.0,8.0,4.0,Finished,2.0,11.0,4.0
+9,British Grand Prix,16,LEC,Charles Leclerc,Ferrari,2.0,1.0,25.0,Finished,2.0,11.0,4.0
+10,Belgian Grand Prix,16,LEC,Charles Leclerc,Ferrari,4.0,2.0,18.0,Finished,5.0,10.25,7.25
+1,Australian Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,9.0,8.0,4.0,Lapped,9.0,,
+2,Chinese Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,15.0,12.0,0.0,Lapped,15.0,8.0,4.0
+3,Japanese Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,10.0,14.0,0.0,Finished,10.0,10.0,2.0
+4,Miami Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,16.0,14.0,0.0,Lapped,16.0,11.333333333333334,1.3333333333333333
+5,Canadian Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,9.0,22.0,0.0,Did not start,9.0,12.0,1.0
+6,Monaco Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,15.0,7.0,6.0,Finished,15.0,15.5,0.0
+7,Barcelona Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,11.0,9.0,2.0,Lapped,11.0,14.25,1.5
+8,Austrian Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,10.0,10.0,1.0,Lapped,10.0,13.0,2.0
+9,British Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,9.0,7.0,6.0,Finished,9.0,12.0,2.25
+10,Belgian Grand Prix,41,LIN,Arvid Lindblad,Racing Bulls,7.0,9.0,2.0,Finished,8.0,8.25,3.75
+1,Australian Grand Prix,1,NOR,Lando Norris,McLaren,6.0,5.0,10.0,Finished,6.0,,
+2,Chinese Grand Prix,1,NOR,Lando Norris,McLaren,6.0,20.0,0.0,Did not start,6.0,5.0,10.0
+3,Japanese Grand Prix,1,NOR,Lando Norris,McLaren,5.0,5.0,10.0,Finished,5.0,12.5,5.0
+4,Miami Grand Prix,1,NOR,Lando Norris,McLaren,4.0,2.0,18.0,Finished,4.0,10.0,6.666666666666667
+5,Canadian Grand Prix,1,NOR,Lando Norris,McLaren,3.0,18.0,0.0,Retired,3.0,8.0,9.5
+6,Monaco Grand Prix,1,NOR,Lando Norris,McLaren,8.0,19.0,0.0,Retired,8.0,11.25,7.0
+7,Barcelona Grand Prix,1,NOR,Lando Norris,McLaren,4.0,3.0,15.0,Finished,4.0,11.0,7.0
+8,Austrian Grand Prix,1,NOR,Lando Norris,McLaren,6.0,7.0,6.0,Finished,6.0,10.5,8.25
+9,British Grand Prix,1,NOR,Lando Norris,McLaren,6.0,4.0,12.0,Finished,6.0,11.75,5.25
+10,Belgian Grand Prix,1,NOR,Lando Norris,McLaren,13.0,7.0,6.0,Finished,3.0,8.25,8.25
+1,Australian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,13.0,11.0,0.0,Lapped,13.0,,
+2,Chinese Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,13.0,14.0,0.0,Lapped,13.0,11.0,0.0
+3,Japanese Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,12.0,10.0,1.0,Finished,12.0,12.5,0.0
+4,Miami Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,14.0,13.0,0.0,Lapped,14.0,11.666666666666666,0.3333333333333333
+5,Canadian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,17.0,14.0,0.0,Lapped,17.0,12.0,0.25
+6,Monaco Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,17.0,9.0,2.0,Finished,17.0,12.75,0.25
+7,Barcelona Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,17.0,13.0,0.0,Lapped,17.0,11.5,0.75
+8,Austrian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,15.0,16.0,0.0,Lapped,15.0,12.25,0.5
+9,British Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,17.0,13.0,0.0,Finished,17.0,13.0,0.5
+10,Belgian Grand Prix,31,OCO,Esteban Ocon,Haas F1 Team,16.0,17.0,0.0,Finished,18.0,12.75,0.5
+1,Australian Grand Prix,11,PER,Sergio Perez,Cadillac,18.0,16.0,0.0,Lapped,18.0,,
+2,Chinese Grand Prix,11,PER,Sergio Perez,Cadillac,21.0,15.0,0.0,Lapped,22.0,16.0,0.0
+3,Japanese Grand Prix,11,PER,Sergio Perez,Cadillac,19.0,17.0,0.0,Finished,19.0,15.5,0.0
+4,Miami Grand Prix,11,PER,Sergio Perez,Cadillac,20.0,16.0,0.0,Lapped,20.0,16.0,0.0
+5,Canadian Grand Prix,11,PER,Sergio Perez,Cadillac,20.0,17.0,0.0,Retired,20.0,16.0,0.0
+6,Monaco Grand Prix,11,PER,Sergio Perez,Cadillac,18.0,15.0,0.0,Finished,18.0,16.25,0.0
+7,Barcelona Grand Prix,11,PER,Sergio Perez,Cadillac,19.0,14.0,0.0,Lapped,19.0,16.25,0.0
+8,Austrian Grand Prix,11,PER,Sergio Perez,Cadillac,19.0,21.0,0.0,Retired,19.0,15.5,0.0
+9,British Grand Prix,11,PER,Sergio Perez,Cadillac,20.0,14.0,0.0,Finished,20.0,16.75,0.0
+10,Belgian Grand Prix,11,PER,Sergio Perez,Cadillac,18.0,21.0,0.0,Retired,20.0,16.0,0.0
+1,Australian Grand Prix,81,PIA,Oscar Piastri,McLaren,5.0,21.0,0.0,Did not start,5.0,,
+2,Chinese Grand Prix,81,PIA,Oscar Piastri,McLaren,5.0,19.0,0.0,Did not start,5.0,21.0,0.0
+3,Japanese Grand Prix,81,PIA,Oscar Piastri,McLaren,3.0,2.0,18.0,Finished,3.0,20.0,0.0
+4,Miami Grand Prix,81,PIA,Oscar Piastri,McLaren,7.0,3.0,15.0,Finished,7.0,14.0,6.0
+5,Canadian Grand Prix,81,PIA,Oscar Piastri,McLaren,4.0,11.0,0.0,Lapped,4.0,11.25,8.25
+6,Monaco Grand Prix,81,PIA,Oscar Piastri,McLaren,7.0,5.0,10.0,Finished,7.0,8.75,8.25
+7,Barcelona Grand Prix,81,PIA,Oscar Piastri,McLaren,7.0,5.0,10.0,Finished,7.0,5.25,10.75
+8,Austrian Grand Prix,81,PIA,Oscar Piastri,McLaren,7.0,4.0,12.0,Finished,7.0,6.0,8.75
+9,British Grand Prix,81,PIA,Oscar Piastri,McLaren,8.0,11.0,0.0,Finished,8.0,6.25,8.0
+10,Belgian Grand Prix,81,PIA,Oscar Piastri,McLaren,6.0,5.0,10.0,Finished,7.0,6.25,8.0
+1,Australian Grand Prix,63,RUS,George Russell,Mercedes,1.0,1.0,25.0,Finished,1.0,,
+2,Chinese Grand Prix,63,RUS,George Russell,Mercedes,2.0,2.0,18.0,Finished,2.0,1.0,25.0
+3,Japanese Grand Prix,63,RUS,George Russell,Mercedes,2.0,4.0,12.0,Finished,2.0,1.5,21.5
+4,Miami Grand Prix,63,RUS,George Russell,Mercedes,5.0,4.0,12.0,Finished,5.0,2.3333333333333335,18.333333333333332
+5,Canadian Grand Prix,63,RUS,George Russell,Mercedes,1.0,19.0,0.0,Retired,1.0,2.75,16.75
+6,Monaco Grand Prix,63,RUS,George Russell,Mercedes,6.0,12.0,0.0,Finished,6.0,7.25,10.5
+7,Barcelona Grand Prix,63,RUS,George Russell,Mercedes,1.0,2.0,18.0,Finished,1.0,9.75,6.0
+8,Austrian Grand Prix,63,RUS,George Russell,Mercedes,1.0,1.0,25.0,Finished,1.0,9.25,7.5
+9,British Grand Prix,63,RUS,George Russell,Mercedes,4.0,2.0,18.0,Finished,4.0,8.5,10.75
+10,Belgian Grand Prix,63,RUS,George Russell,Mercedes,3.0,22.0,0.0,Retired,4.0,4.25,15.25
+1,Australian Grand Prix,55,SAI,Carlos Sainz,Williams,21.0,15.0,0.0,Lapped,,,
+2,Chinese Grand Prix,55,SAI,Carlos Sainz,Williams,17.0,9.0,2.0,Lapped,17.0,15.0,0.0
+3,Japanese Grand Prix,55,SAI,Carlos Sainz,Williams,16.0,15.0,0.0,Finished,16.0,12.0,1.0
+4,Miami Grand Prix,55,SAI,Carlos Sainz,Williams,13.0,9.0,2.0,Finished,13.0,13.0,0.6666666666666666
+5,Canadian Grand Prix,55,SAI,Carlos Sainz,Williams,15.0,9.0,2.0,Lapped,15.0,12.0,1.0
+6,Monaco Grand Prix,55,SAI,Carlos Sainz,Williams,12.0,16.0,0.0,Retired,12.0,10.5,1.5
+7,Barcelona Grand Prix,55,SAI,Carlos Sainz,Williams,16.0,12.0,0.0,Lapped,16.0,12.25,1.0
+8,Austrian Grand Prix,55,SAI,Carlos Sainz,Williams,17.0,20.0,0.0,Retired,17.0,11.5,1.0
+9,British Grand Prix,55,SAI,Carlos Sainz,Williams,14.0,17.0,0.0,Lapped,15.0,14.25,0.5
+10,Belgian Grand Prix,55,SAI,Carlos Sainz,Williams,19.0,16.0,0.0,Finished,15.0,16.25,0.0
+1,Australian Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,17.0,0.0,Lapped,,,
+2,Chinese Grand Prix,18,STR,Lance Stroll,Aston Martin,20.0,18.0,0.0,Retired,21.0,17.0,0.0
+3,Japanese Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,21.0,0.0,Retired,22.0,17.5,0.0
+4,Miami Grand Prix,18,STR,Lance Stroll,Aston Martin,18.0,17.0,0.0,Lapped,18.0,18.666666666666668,0.0
+5,Canadian Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,15.0,0.0,Lapped,21.0,18.25,0.0
+6,Monaco Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,18.0,0.0,Retired,22.0,17.75,0.0
+7,Barcelona Grand Prix,18,STR,Lance Stroll,Aston Martin,21.0,22.0,0.0,Retired,21.0,17.75,0.0
+8,Austrian Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,19.0,0.0,Retired,22.0,18.0,0.0
+9,British Grand Prix,18,STR,Lance Stroll,Aston Martin,22.0,19.0,0.0,Lapped,21.0,18.5,0.0
+10,Belgian Grand Prix,18,STR,Lance Stroll,Aston Martin,20.0,20.0,0.0,Retired,22.0,19.5,0.0
+1,Australian Grand Prix,3,VER,Max Verstappen,Red Bull Racing,20.0,6.0,8.0,Finished,,,
+2,Chinese Grand Prix,3,VER,Max Verstappen,Red Bull Racing,8.0,16.0,0.0,Retired,8.0,6.0,8.0
+3,Japanese Grand Prix,3,VER,Max Verstappen,Red Bull Racing,11.0,8.0,4.0,Finished,11.0,11.0,4.0
+4,Miami Grand Prix,3,VER,Max Verstappen,Red Bull Racing,2.0,5.0,10.0,Finished,2.0,10.0,4.0
+5,Canadian Grand Prix,3,VER,Max Verstappen,Red Bull Racing,6.0,3.0,15.0,Finished,6.0,8.75,5.5
+6,Monaco Grand Prix,3,VER,Max Verstappen,Red Bull Racing,2.0,22.0,0.0,Retired,2.0,8.0,7.25
+7,Barcelona Grand Prix,3,VER,Max Verstappen,Red Bull Racing,5.0,4.0,12.0,Finished,5.0,9.5,7.25
+8,Austrian Grand Prix,3,VER,Max Verstappen,Red Bull Racing,5.0,2.0,18.0,Finished,5.0,8.5,9.25
+9,British Grand Prix,3,VER,Max Verstappen,Red Bull Racing,7.0,20.0,0.0,Retired,7.0,7.75,11.25
+10,Belgian Grand Prix,3,VER,Max Verstappen,Red Bull Racing,2.0,3.0,15.0,Finished,2.0,12.0,7.5
